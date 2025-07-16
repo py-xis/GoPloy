@@ -66,12 +66,11 @@ npm run dev
 Your app should now be available at:
 http://localhost:5173
 
-⸻
 
-Deploying a Project
-	1.	Enter the GitHub repository URL (e.g., https://github.com/user/my-app.git)
-	2.	Optionally specify a custom slug
-	3.	Click Trigger Build
-	4.	Watch live logs stream in as the project builds
-	5.	Access your deployed app at http://<your-slug>.localhost:8000
+## Deploying a Project
+1. Enter the GitHub repository URL (e.g., https://github.com/user/my-app.git)
+2. Optionally specify a custom slug
+3. Click Trigger Build
+4. Watch live logs stream in as the project builds
+5. Access your deployed app at http://<your-slug>.localhost:8000
 
