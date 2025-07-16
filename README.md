@@ -4,6 +4,7 @@
 # GoPloy
 
 <img width="780" height="844" alt="Screenshot 2025-07-16 at 18 27 40" src="https://github.com/user-attachments/assets/c92b3c2d-ed1c-4010-b037-9d1eb71b7d95" />
+--
 
 **GoPloy** is a simple one-click deployment platform for React applications hosted on GitHub. It provides a seamless interface to trigger builds, monitor live logs, and access the deployed project via a custom slug.
 
