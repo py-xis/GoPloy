@@ -47,7 +47,12 @@ cd goploy
 2. Start the Backend Server
 
 ```
-cd backend
+cd api
+go run main.go
+```
+
+```
+cd reverse-proxy
 go run main.go
 ```
 
