@@ -40,7 +40,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/goploy.git
+git clone https://github.com/py-xis/goploy.git
 cd goploy
 ```
 
